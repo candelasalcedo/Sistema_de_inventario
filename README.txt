@@ -1,3 +1,4 @@
+Forma parte de un proyecto para un curso de TALENTO TECH ADULTOS
 # Sistema de Gestión de Inventarios
 
 Este proyecto es un sistema de gestión de inventarios que permite agregar, 
